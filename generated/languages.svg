@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #DA5B0B;width: 67.459%;" class="progress-item"></span><span style="background-color: #b07219;width: 13.973%;" class="progress-item"></span><span style="background-color: #2b7489;width: 4.970%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 4.149%;" class="progress-item"></span><span style="background-color: #178600;width: 3.937%;" class="progress-item"></span><span style="background-color: #3572A5;width: 3.596%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.999%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.791%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.095%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.030%;" class="progress-item"></span>
+<span style="background-color: #DA5B0B;width: 67.443%;" class="progress-item"></span><span style="background-color: #b07219;width: 13.970%;" class="progress-item"></span><span style="background-color: #2b7489;width: 4.969%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 4.148%;" class="progress-item"></span><span style="background-color: #178600;width: 3.936%;" class="progress-item"></span><span style="background-color: #3572A5;width: 3.619%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.998%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.790%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.095%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.030%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -116,7 +116,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Jupyter Notebook</span>
-<span class="percent">67.46%</span>
+<span class="percent">67.44%</span>
 </li>
 
 
@@ -161,7 +161,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">3.60%</span>
+<span class="percent">3.62%</span>
 </li>
 
 
